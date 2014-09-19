@@ -1,0 +1,1251 @@
+.container{
+  margin:auto;
+  width:934px;
+  min-height:100%;
+   background-color:rgb(112,164,208); 
+  /* background-color:red; */
+  height:4248px;
+}
+#header{
+  position:relative;
+  width:100%;
+  height:70px;
+  background-color:rgb(61,58,61);
+}
+
+
+
+body{
+
+    background-color:rgb(105,52,54);
+  margin:0;
+padding:0;
+height:100%;
+}
+
+#hdr1{
+  margin: auto;
+  height:40px;
+
+}
+#hdrmenu{
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  height:40px;
+  padding:0;
+}
+
+li.aheader{
+  float: left;
+  height:40px;
+  font-size: 14px;
+}
+
+#aheader_home{
+ width: 70px;
+position: relative;
+right: 1px;
+top: 1px;
+letter-spacing: 2px;
+}
+li.aheader:hover{
+  background-color: black;
+
+}
+
+#hopkirk{
+  width: 154px;
+background-color: rgb(97,145,192);
+font-size: 11px;
+letter-spacing: 2px;
+position: relative;
+top: 0px;
+}
+
+a.hdrurl{
+    display: block;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 13px;
+}
+
+#hopurl
+{
+  position: relative;
+bottom: 6px;
+padding: 0;
+margin: 0;
+}
+
+#pages{
+ margin: 0;
+border: 0;
+padding-bottom: 8px;
+color: white;
+height: 40px;
+background-color: rgb(62,58,61);
+padding-top: 5px;
+font-size: 12px;
+/*padding-top: 5px;*/
+padding-left: 9px;
+
+}
+#pages:hover{
+  background:black;
+}
+
+#aheader_section{
+  width: 100px;
+position: relative;
+right: 4px;
+top: 1px;
+}
+#aheader_contact{
+  padding-left: 22px;
+
+}
+#section_url{
+  padding-left: 19px;
+
+}
+#aheader_authors{
+position: relative;
+right: 2px;
+}
+#aheader_pages{
+position: relative;
+top: 2px;
+font-size: 4px;
+}
+
+ #hdr2{
+  margin: auto;
+  
+  height: 30px;
+}
+
+
+
+ #hdr2{
+  margin: auto;
+  
+  height: 30px;
+}
+
+#hdrmenu2{
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  height:30px;
+  padding:0;
+}
+
+ li.aheader2{
+  float: left;
+  height:30px;
+}
+
+#date_bottom{
+  background:rgb(210,217,228);
+  width:154px;
+  font-size:11px;
+  color:black;
+}
+
+a.hdrurl2{
+    display: block;
+  font-weight: normal;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-top: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#go_id{
+  color:white;
+}
+
+#update_bottom{
+  background:rgb(249,248,249);
+
+  width:520px;
+  text-align: center;
+  color:black;
+}
+
+
+p.update_p{
+  padding-right:75px;
+  margin-top: 0px;
+  font-size: 0.7em;
+  text-transform: none;
+  margin-bottom: 0px;
+  letter-spacing: -1px;
+  word-spacing: -2px;
+  padding-left: 6px;
+  padding-right:60px;
+}
+
+
+#inputtext{
+   width:198px;
+   height: 30px;
+   background-color: rgb(255,255,255);
+}
+
+
+
+#id_submit{
+
+   width:58px;
+   background:rgb(61,131,197) ;
+   font-size: 14px;
+
+}
+
+/*BODY STUFF */
+
+#arrows{
+width:622px ;
+height:320px;
+float:left;
+}
+
+#body_image{
+  width:622px ;
+height:320px;
+}
+
+#image1{
+  width:120px;
+  height:80px;
+  float:left;
+}
+
+div.block_part{
+  height:80px;
+  width:192px;
+  float:left;
+  background-color:rgb(205,192,193);
+}
+
+#block_part_id{
+  background-color: rgb(54,54,54);
+}
+
+.text1{
+  height:60px;
+  border-top: 2px solid rgb(57,126,193);
+width: 192px;
+  color:black;
+  /*background-color: rgb(54,54,54)*/;
+  float:left;
+
+}
+
+#text1_id{
+  color:white;
+}
+
+#text1_id h6{
+  font-weight: normal;
+  padding-left: 10px;
+  position: relative;
+bottom: 15px;
+}
+
+#text1_id1 h6{
+    font-weight: normal;
+  margin-top: 20px;
+  padding-left: 10px;
+  margin:0;
+  padding-top:11px;
+}
+
+#block_part1{
+  height:20px;
+  width:210px;
+  float:left;
+}
+
+.part1{
+  height:20px;
+  width:100px;
+ /* background-color: rgb(54,54,54) */;
+  float:left;
+}
+
+.part2{
+  height:20px;
+  width:76px;
+  background-color:rgb(57,126,193) ;
+  color:white;
+  float:left;
+  text-align: center;position:relative;
+    right:-16px;
+
+}
+
+#part2_id{
+    background-color:rgb(0,0,0);
+    
+
+}
+
+.urlauthor{
+  font-size:10px;
+    text-decoration: none;
+    color:white;
+}
+
+
+
+/* 2nd Body Part */
+
+.body2nd{
+  width:310px;
+  height:358px;
+  float:left;
+}
+
+#image6{
+
+  height:156px;
+  width:314px;
+}
+.2ndimage{
+   height:150px;
+  width:310px;
+}
+.text2nd{
+  height:84px;
+  width:310px;
+  background-color:rgb(112,164,208);
+  color:white;
+  font-size:18px;
+  font-style:bold;
+  text-align: center;
+
+}
+
+.text2nd h6{
+  margin:0;
+  padding-top:4px ;
+  padding-right:180px;
+  padding-bottom: 50px;
+  font-style: italic;
+}
+
+.text2nd h4{
+  margin:0;
+  padding-top:9px;
+  text-align: left;
+  padding-left:25px;
+
+
+}
+
+
+
+#text2nd2{
+  height:85px;
+  width:313px;
+  background-color:#E6E6FA;
+  color:black;
+  font-size:14px;
+  text-align: center
+
+}
+
+#text2nd2 p{
+  text-align: left;
+  margin:0px;
+  padding-left: 24px;
+  padding-right: 20px;
+  padding-top:7px;
+  font-size:13px;
+
+}
+
+.text2nd3{
+  height:29px;
+  width:310px;
+ /* background-color:#E6E6FA; */
+  color:white;
+}
+
+#idtext2nd3{
+    margin-top:22px; 
+
+}
+
+.part1-2{
+  height:29px;
+  width:80px;
+  background-color:#1E90FF;
+  color:white;
+  float:left;
+}
+
+.readmore{
+  font-size:15px;
+  color:white;
+  text-align: center;
+}
+a.readmore{
+  padding-left:11px ;
+  text-decoration: none;
+  position:relative;
+  top:5px;
+  font-size:12px;
+}
+.part2-2{
+  height:29px;
+  width:230px;
+  background-color:#E6E6FA ;
+  color:white;
+  float:left;
+  text-align: center;
+  float:left;
+}
+
+#part2-2-correction
+{
+  position: relative;
+left: 3px;
+}
+.images3{
+   height:156px;
+  width:310px;
+  float:left;
+}
+
+
+
+/* Tortor */
+
+.tortor{
+  width:33.33%;
+  height:2185px;
+ /* background-color: rgb(249,248,248) */;
+ background-color: white;
+  text-align: center;
+  float:left;
+}
+#johnny{
+  font-style: italic;
+  font-size: 11px;
+  margin-bottom:0px;
+}
+
+.tortor h3{
+  margin:0px;
+  padding-top:30px;
+  font-style: bold;
+}
+.donec{
+  font-size: 18px;
+  text-align: left;
+  /* color: rgb(54,54,54); */
+  padding-left: 20px;
+  word-spacing: 7px;
+  margin-right: 20px;
+  margin:0;
+  padding-top:10px;
+}
+
+#lorem{
+  font-size: 17px;
+  text-align: left;
+  color: rgb(54,54,54);
+  padding-left: 30px;
+}
+
+#someone{
+  font-size: 12px;
+  text-align: left;
+  color: rgb(152,152,152);
+  padding-left: 30px;
+}
+
+.aenean{
+
+   font-size: 14px;
+  text-align: left;
+ /* color: rgb(54,54,54); */
+  padding-left: 20px;
+  margin-right: 20px;
+   margin-top:23px; 
+
+}
+
+.part2-2-new{
+   height:29px;
+  width:200px;
+  background-color:#E6E6FA ;
+  color:white;
+  float:left;
+  text-align: center;
+  float:left;
+}
+
+.chat{
+  float:left;
+  width:30px;
+     height:29px;
+
+  background-color: blue;
+}
+
+.blue_donec{
+  width:33.33%;
+  height:500px;
+ /* background-color: rgb(249,248,248) */;
+ background-color: rgb(100,145,191);
+  text-align: center;
+  float:left;
+  color:white;
+}
+
+#blue_donec_id{
+  height:471px;
+}
+
+.blue_donec h3{
+  margin:0px;
+  padding-top:30px;
+  font-style: bold;
+}
+
+.grey_dump{
+  height:64px;
+    width:100%;
+
+  background-color: rgb(208,188,192);
+}
+
+.condimentum{
+  width:33.33%;
+  height:471px;
+ /* background-color: rgb(249,248,248) */;
+ background-color: rgb(249,248,248);
+  text-align: center;
+  float:left;
+}
+
+.condimentum h3{
+  margin:0px;
+  padding-top:30px;
+  font-style: bold;
+}
+
+.image12div{
+   height:290px;
+  width:50%;
+  float:left;
+background-color: white;
+}
+
+#image12{
+
+  height:275px;
+  width:100%;
+}
+
+/**** Body Stuff again */
+#quesque{
+  width:100%;
+  background-color: rgb(54,54,54);
+  color: white;
+  height:475px;
+
+}
+
+#image16{
+
+    height:171px;
+  width:311px;
+
+}
+
+#donecId{
+  color:white;
+}
+
+#aneanId{
+  color:white;
+}
+.alison{
+   height:150px;
+  width:310px;
+  float:left;
+  background-color: red;
+}
+
+.alison_pic{
+  height:125px;
+  width:40%;
+  background-color: black;
+    float:left;
+
+}
+
+#image13{
+  margin:15px;
+}
+
+.about_alison{
+  height:125px;
+  width:60%;
+  background-color: black;  
+  float:left;
+}
+.about_alison h1{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  color:white;
+  font-style: bold;
+  padding-top: 8px;
+    text-align: left;
+
+
+ }
+ #about_p{
+  font-size: 11px;
+  color:white;
+  text-align: left;
+  line-height: 120%;
+  margin-top: 0px;
+
+ }
+
+.twitter{
+  height:17px;
+  width:110px;
+  background-color: rgb(61,131,197);
+
+}
+
+.twitter_image{
+  width:20px;
+  height:18px;
+  float:left;
+}
+#image15{
+  padding-right:80px;
+}
+
+#twitter_p{
+  font-size: 11px;
+  color:white;
+  margin: 0;
+  display:inline;
+  padding-bottom: 0px;
+  position:relative;
+  top:-2px;
+
+
+}
+.madeup_id{
+  height:17px;
+  width:90px;
+  float:left;
+  text-align: center;
+
+}
+
+
+#alison_readmore{
+  background-color: black;
+}
+
+.tortor_neque{
+  float:left;
+  width:310px;
+  height:520px;
+  background-color: white;
+  margin-top:8px;
+}
+
+#tortor_neque_textid{
+  margin-top: 30px;
+}
+
+.space{
+  background-color: rgb(215,191,192);
+  height:128px;
+  width:100%;
+  float:left;
+}
+
+
+/** Blue Condimentum */
+
+.blue_water{
+  width:622px;
+  height:500px;
+  background-color: white;
+  float:left;
+}
+
+#blue_condimentum{
+  width:310px;
+  height:290px;
+  background-color: white;
+}
+
+
+.blue_text{
+  width:100%;
+  height:200px;
+  float:left;
+  background-color: white;
+}
+
+#blue_aenean{
+  margin-top:0;
+  margin-left: 10px;
+}
+
+#blue_text2nd{
+  width:620px;
+  position:relative;
+  top:-19px;
+}
+#blue2{
+  width:510px;
+  height:25px;
+  background-color:white;
+  float:left;
+  display: inline;
+}
+
+
+#blue_donec_aenean{
+  position:relative;
+  bottom:3px;
+}
+
+#blue_donec_text2nd3{
+  position:relative;
+  bottom:-9px;
+}
+
+
+.start_weather{
+    width:33.33%;
+    float:left;
+    height:500px;
+    background-color: rgb(103,147,192);
+}
+
+.weather{
+  background-color:rgb(103,147,192);
+  width:100%;
+  height:210px;
+}
+
+.weather h1{
+  font-size: 20px;
+  color:white;
+  text-align: center;
+  margin-top:40px;
+}
+p.seventeen{
+  font-size: 90px;
+  text-align: center;
+  color:white;
+  font-weight: lighter;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+
+
+#fair{
+  margin-top: 0;
+  text-align: center;
+  color:white;
+
+}
+
+.snow{
+
+   height:150px;
+  width:310px;
+  float:left;
+
+
+}
+
+
+#weather_condimentum{
+  width:310px;
+  height:660px;
+  background-color: white;
+}
+
+.clouds{
+  float:left;
+  width:33.33%;
+  height:1225px;
+  background-color: rgb(105,52,54);
+  position:relative;
+  bottom:29px;
+}
+#clouds_condimentum{
+  width:310px;
+  height:655px;
+  background-color: rgb(84,53,40);
+  color:white ;
+}
+
+#clouds_condimentum h3{
+  margin-top: 40px;
+}
+#clouds_donec{
+  color:white;
+}
+
+.obama{
+  text-align: left;
+  color:white;
+  background-color: rgb(54,54,54);
+width:100%;
+  height:200px;
+  float:left;
+}
+
+.obama p{
+  font-size: 16px;
+margin-top:30px;
+margin-left: 40px;
+margin-right: 50px;
+margin-bottom: 10px;
+}
+
+
+
+#whouse{
+  font-size: 12px;
+  text-align: left;
+  color: white;
+margin-left:40px;
+  margin-top: 0px;
+}
+
+
+.empty_space{
+  background-color: rgb(228,201,192);
+  width:100%;
+  height:360px;
+  float:left;
+}
+
+
+
+#image26{
+  width:934px;
+  position:relative;
+  bottom:10px;
+}
+.div26{
+  width:100%;
+  height:70px;
+  float:left;
+}
+.signup_div{
+  width:100%;
+  height:27px;
+  float:left;
+  background-color: red;
+  position:relative;
+  bottom:3px;
+
+}
+
+.newsletter{
+  background-color: rgb(103,146,191);
+  width:33.33%;
+  height:27px;
+  float:left;
+}
+
+#news {
+  word-spacing: 10px;
+  font-size: 15px;
+  font-style: bold;
+  color:white;
+  margin:0;
+  text-align: center;
+  position:relative;
+  top:8px;
+
+
+}
+
+.yourname{
+  width:210px;
+  background-color: white;
+  height:27px;
+  float:left;
+}
+
+#nametext{
+   width:210px;
+   height: 21px;
+   background-color: rgb(255,255,255);
+}
+
+.email{
+  width:250px;
+  background-color: white;
+  height:27px;
+  float:left;
+}
+
+#emailtext{
+   width:250px;
+   height: 21px;
+   background-color: rgb(255,255,255);
+}
+
+.signup{
+
+  width:162px;
+  height:27px;
+  float:left;
+ background-color:rgb(61,131,197);
+
+} 
+
+
+
+#signid{
+ word-spacing: 1px;
+  font-size: 15px;
+  font-style: normal;
+  color:white;
+  margin:0;
+  text-align: center;
+  position:relative;
+  top:8px;  
+}
+
+.black_bg{
+  width:100%;
+  height:480px;
+  background-color: black;
+  float:left;
+  position: relative;
+bottom: 3px;
+}
+
+.partly_image{
+  width:50%;
+  height:350px;
+  background-color:black;
+    float:left;
+
+}
+
+.partly_image h3{
+  font-size: 17px;
+  margin:0;
+  padding-left: 20px;
+  padding-top:30px;
+  color:white;
+
+}
+
+.partly_image p{
+  color:rgb(61,131,197);
+  font-size:13px;
+  padding-left:20px;
+  margin:0;
+  padding-top:0px; 
+}
+
+#video{
+  padding:20px;
+}
+
+.media{
+  width:50%;
+  height:350px;
+  background-color:black;
+    float:left;
+    text-align: left;
+    color:white;
+
+}
+
+.media h3{
+  font-size: 17px;
+  margin:0;
+  padding-left: 10px;
+  padding-top:30px;
+  color:white;
+}
+
+
+#aenean_media{
+  padding-left:10px;
+    color:white;
+
+}
+
+
+
+#media_donec{
+  padding-left:10px;
+    color:white;
+
+}
+
+.fivepics{
+  float:left;
+  width:100%;
+  height:150px;
+  background-color: black;  
+}
+
+.firstpic{
+  width:20%;
+  margin-top:10px;
+  float:left;
+
+
+}
+
+#bridge{
+  margin:20px;
+
+}
+
+.last_grey{
+  background-color:rgb(59,54,53);
+  width:100%;
+  float:left;
+  height:305px;
+  color:white;
+  padding-top:5px;
+}
+
+.active_cat{
+  width:33.33%;
+  height:300px;
+  float:left;
+}
+
+.active_cat h3{
+  margin: 0;
+  padding-left: 20px;
+  font-size: 17px;
+  word-spacing: 1px;
+  letter-spacing: -1px;
+  padding-top: 40px;
+}
+
+.active_cat p{
+  font-size: 14px;
+  margin:8px;
+}
+
+#active_ul{
+  padding-left:35px;
+}
+
+#disc{
+}
+
+.mostpic_div{
+  height:100px;
+  width:100%;
+  margin-top: 20px; 
+}
+
+.div20{
+  width:100%;
+}
+.pic30{
+  width:50px;
+  height:50px;
+  padding-left: 20px;
+  float:left;
+}
+
+.beach_text{
+  width:230px;
+  height:50px;
+  float:left;
+}
+
+.beach_text h3{
+  margin: 0;
+  padding-left: 20px;
+  font-size: 14px;
+  word-spacing: 1px;
+  letter-spacing: -1px;
+  position:relative;
+  left:-12px;
+  padding-top:0px;
+}
+
+.beach_text p{
+  
+  font-size: 12px;
+
+}
+
+#read_beach{
+  position:relative;
+  left:220px;
+  margin-top: 10px;
+}
+
+#image35{
+  height:1px;
+  width:1px;
+  }
+
+  .div24{
+    background-color:rgb(27,24,26);
+  }
+.div25{
+    background-color:rgb(57,53,53);
+  }
+
+
+
+  .pellent_div{
+    width:100%;
+    height:218px;
+    background-color:white;
+    float:left;
+    position: relative;
+bottom: 3px;
+  }
+
+  .pellent{
+    width:642px;
+    height:218px;
+    float:left;
+  }
+
+  .pellent h3{
+    margin-top:0;
+    padding-top:25px;
+    padding-left:20px;
+    margin-bottom:10px;
+  }
+
+  #pellent_aenean{
+    font-size:13px;
+  }
+
+  .border_lorem{
+    width:292px;
+    height:218px;
+    float:left;
+  }
+
+  #lorem_border_id{
+
+    border-left:3px solid rgb(152,152,152);
+    width:250px;
+    margin:10px;
+    height:151px;
+
+  }
+
+  #lorem_aenean{
+    padding-left:17px;
+    font-size:17px;
+    padding-right:31px;
+  }
+
+  #someone_border{
+    font-size: 12px;
+text-align: left;
+color: rgb(152,152,152);
+margin-top: 0px;
+padding-left: 14px;
+margin-bottom: 0px;
+/* padding-bottom: 39px; */
+position: relative;
+bottom: 12px;
+  }
+
+
+
+/* Footer Stuff */
+
+.footer {
+   position:relative;
+   width:934px;
+   height:74px;  
+   background:black;
+   color:white;
+   float:left;
+}
+
+
+li.lifooter {
+    display: inline;
+    padding: 10px;
+
+
+}
+a.footerurl{
+  position:relative;
+  text-decoration: none;
+  top:20px;
+  font-size: 13px;
+}
+
+.last{
+ position: relative;
+top: 5px;
+float: right;
+padding-right: 33px;
+font-size: 12px;
+}
+
+
+#help_id{
+  position: relative;
+right: 12px;
+}
+
+#contact_id{
+  position: relative;
+  right:19px ;
+}
+
+
+#footerid1{
+  padding-left: 0px;
+}
+
+
+#body {
+padding-bottom:0px; /* Height of the footer element */
+}
+
+#ul_id{
+  padding-left: 20px;
+  list-style-type: none;
+  position: relative;
+bottom: 6px;
+}
